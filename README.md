@@ -3,13 +3,14 @@ Hi, I'm angopicc
 I build custom Minecraft plugins for Paper servers, mainly for Skyblock, Lifesteal and SMP: crates, custom enchants, custom mechanics and the systems that tie them together.
 
 What I build
-Crates and rewards: weighted loot, keys, spin animations, odds previews
-Custom enchants and items: pickaxe enchants, custom gear, upgrade menus
-Gameplay mechanics: Lifesteal hearts, minions, events, custom rules
-Fixes and ports: broken plugins, Skript to Java, version updates
+- Crates and rewards: weighted loot, keys, spin animations, odds previews
+- Custom enchants and items: pickaxe enchants, custom gear, upgrade menus
+- Gameplay mechanics: Lifesteal hearts, minions, events, custom rules
+- Fixes and ports: broken plugins, Skript to Java, version updates
 
 Portfolio
 Plugin:	  CrateForge	
+
 What it does:   Weighted crates with physical keys, a spin animation, an odds preview and holograms
 
 Stack
