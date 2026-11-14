@@ -25,6 +25,6 @@ How I work
 - Delivery: a tested jar and a demo video, with a support window agreed in the quote
 
 Hire me
-BuiltByBit: my services thread
-Discord: diavolo69
-Timezone: UK (GMT/BST)
+- BuiltByBit: my services thread
+- Discord: diavolo69
+- Timezone: UK (GMT/BST)
