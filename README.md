@@ -9,8 +9,8 @@ Gameplay mechanics: Lifesteal hearts, minions, events, custom rules
 Fixes and ports: broken plugins, Skript to Java, version updates
 
 Portfolio
-Plugin	    What it does
-CrateForge	Weighted crates with physical keys, a spin animation, an odds preview and holograms
+Plugin:	  CrateForge	
+What it does:   Weighted crates with physical keys, a spin animation, an odds preview and holograms
 
 Stack
 Java 21+ · Paper API · Gradle · Adventure / MiniMessage · YAML configs
