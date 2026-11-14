@@ -25,6 +25,6 @@ How I work
 - Delivery: a tested jar and a demo video, with a support window agreed in the quote
 
 Hire me
-- BuiltByBit: my services thread
+- BuiltByBit: [my services thread](https://builtbybit.com/threads/open-custom-paper-plugins-crates-enchants-smp-mechanics-%C2%A325-%C2%A330-hr-fixed-quotes.744922/)
 - Discord: diavolo69
 - Timezone: UK (GMT/BST)
